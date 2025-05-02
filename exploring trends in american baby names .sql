@@ -1,3 +1,5 @@
+https://app.datacamp.com/learn/projects/2588
+
 --QUESTION 1;
 --List the first five names in alphabetical order and find out if each name is "Classic" or "Trendy." 
 --Save your query as a DataFrame name_types with three columns: first_name, sum, and popularity_type
